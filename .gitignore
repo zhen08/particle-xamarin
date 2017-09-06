@@ -69,3 +69,5 @@ test-results
 
 # dotCover
 *.dotCover
+project.lock.json
+src/packages
